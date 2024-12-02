@@ -55,7 +55,7 @@ Make sure you have the following installed:
 
 ### 1. Train the Model:
 
-- Use the `final_result_gender_test.py` file to train the model.
+- Use the `final_result_gender_test.ipynb` file to train the model.
 - The script will:
   - Load and preprocess audio files from the **RAVDESS** and **SAVEE** datasets.
   - Train a CNN model on the processed data.
@@ -63,7 +63,7 @@ Make sure you have the following installed:
 
 #### Run the following command:
 ```bash
-python final_result_gender_test.py***
+python final_result_gender_test.ipynb***
 ```
 
 
