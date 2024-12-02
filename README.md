@@ -68,7 +68,7 @@ python final_result_gender_test.ipynb***
 
 
 ### 2. Real-Time Audio Testing:
--Use the `Audio_recorder.py` file to record real-time audio.
+-Use the `Audio_recorder.ipynb` file to record real-time audio.
 -The script will:
  -Record your voice using your system's microphone.
  -Save the recorded audio as a .wav file.
@@ -76,5 +76,5 @@ python final_result_gender_test.ipynb***
 ###Run the following command:
 ```bash
 
-python Audio_recorder.py
+python Audio_recorder.ipynb
 ```
